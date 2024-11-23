@@ -1,1 +1,1 @@
-# layer4-simple-ddos-proxy
+DDoS Layer4 Simple Coded by Python

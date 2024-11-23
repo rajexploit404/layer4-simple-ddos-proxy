@@ -1,4 +1,3 @@
-Here’s a cleaner and well-structured version of your `README.md`:
 
 ---
 
@@ -26,7 +25,7 @@ This Python script simulates a **Layer 4 DDoS (Denial of Service)** attack by se
 To run the script, execute the following command:
 
 ```bash
-python script_name.py
+python layer4.py
 ```
 
 ### Command-Line Options:
@@ -43,7 +42,7 @@ python script_name.py
 $ python layer4.py
 ```
 
-When prompted, input the following:
+When prompted, this is example input the following:
 
 ```
 Target IP: 102.232.121.44
@@ -69,5 +68,3 @@ Delay Per Second (default 0.1): 0.1
 **Important**: This script is intended for **educational purposes only**. **Do not use this on networks or systems that you do not have explicit permission to test**. Unauthorized use of this tool can lead to legal consequences. Always act responsibly and ethically.
 
 ---
-
-This format provides a clean, structured look, with sections clearly defined and explanations easy to follow. Each important detail is separated, making it user-friendly for anyone reading the `README.md` file.
